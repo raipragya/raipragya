@@ -83,7 +83,7 @@ class PragyaRai:
 ---
 ## 🏆 Achievements
 
-- 💼 **LinkedIn Coaching Program:** Selected as **1 of 100 mentees across India** from **21,000+ applicants**
+- 💼 **LinkedIn Coachin Program:** Selected as **1 of 100 mentees across India** from **21,000+ applicants**
 
 ---
 
@@ -99,13 +99,3 @@ class PragyaRai:
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:raipragya006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/pragyarai006"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" alt="Footer" />
-</p>
