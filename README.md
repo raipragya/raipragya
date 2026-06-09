@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:raipragya006@gmail.com"><img src="https://img.shields.io/badge/Email-raipragya006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/pragyarai006"><img src="https://img.shields.io/badge/LinkedIn-Pragya%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pragyarai006/"><img src="https://img.shields.io/badge/LinkedIn-Pragya%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
  
 </p>
