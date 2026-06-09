@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:2563EB,100:7C3AED&text=Pragya%20Rai&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=AI%2FML%20Engineering%20%E2%80%A2%20Full-Stack%20Systems%20%E2%80%A2%20Research-Oriented%20Problem%20Solving&descAlignY=57&descSize=18&animation=fadeIn" alt="Pragya Rai GitHub Header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&lines=Integrated+M.Tech+CSE+%40+IIIT+Bangalore;Building+AI-powered+developer+and+decision+systems;NLP+%7C+RAG+%7C+Causal+ML+%7C+Transformers+%7C+Full-Stack;Turning+research+ideas+into+usable%2C+measurable+software" alt="Typing intro" />
-</p>
+
 
 <p align="center">
   <a href="mailto:raipragya006@gmail.com"><img src="https://img.shields.io/badge/Email-raipragya006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,9 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raipragya006&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raipragya006?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20SDE%20Internships-10B981?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://komarev.com/ghpvc/?username=raipragya&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/raipragya?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
 </p>
 
 ---
@@ -176,17 +173,17 @@ Causal ML pipeline for targeting optimization using **user-level incremental tre
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raipragya006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Pragya's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raipragya006&theme=tokyonight&hide_border=true" alt="Pragya's GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raipragya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Pragya's GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raipragya&theme=tokyonight&hide_border=true" alt="Pragya's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raipragya006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
-  <img width="54%" src="https://github-profile-trophy.vercel.app/?username=raipragya006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raipragya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+  <img width="54%" src="https://github-profile-trophy.vercel.app/?username=raipragya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raipragya006&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raipragya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
