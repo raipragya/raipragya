@@ -11,11 +11,6 @@
  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raipragya&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raipragya?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
-</p>
-
 ---
 
 ## 👋 About Me
@@ -101,69 +96,6 @@ class PragyaRai:
 </p>
 
 ---
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 CodeVoir — AI Career Prep Platform
-
-AI-powered platform for **mock interviews, source-grounded learning, opportunity discovery, and structured interview workflows**.
-
-**Built with:** React, FastAPI, LangGraph, LiteLLM, SQLite, Google OAuth/JWT, Monaco Editor, RAG  
-
-**What stands out:**
-- Company-specific interview flows for DSA, CS fundamentals, projects, and behavioral rounds
-- Persistent authenticated sessions and feedback reports
-- Multi-language test-case execution
-- PDF, URL, GitHub, and notes ingestion for source-grounded learning
-
-🔗 **Repo:** [https://github.com/raipragya/CodeVoir](REPO_LINK_CODEVOIR)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ AI DebateJudge — NLP + RAG Adjudication
-
-End-to-end NLP pipeline that converts debate transcripts into **claims, evidence, rebuttal signals, factual correctness scores, and winner decisions**.
-
-**Built with:** Python, Hugging Face, spaCy, FAISS, Ollama, RAG, Transformers  
-
-**What stands out:**
-- DistilBERT claim detector on a balanced **4,096-sentence** dataset
-- Achieved **99.67 macro-F1**, **99.67 accuracy**, and **99.69 claim-class F1** on in-domain validation
-- DeBERTa-v3-base multi-task model with BIO-NER, attributes, relations, claim types, and stance heads
-- FAISS + Phi-3 + RoBERTa-large-MNLI for evidence-grounded verification and rebuttal analysis
-
-🔗 **Repo:** [https://github.com/raipragya/AI_Debate_Judge](REPO_LINK_DEBATEJUDGE)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📈 Uplift Modeling Optimisation — Causal ML
-
-Causal ML pipeline for targeting optimization using **user-level incremental treatment effect estimation**.
-
-**Built with:** Python, Causal ML, DragonNet, Random Forest T-Learner  
-
-**What stands out:**
-- Designed optimized DragonNet with outcome heads, propensity head, residual dense blocks, batch normalization, GELU, dropout, trainable epsilon, and targeted regularization
-- Improved uplift-ranking performance by nearly **33%** over Random Forest T-Learner
-- AUUC improved from **226.77 → 301.67**
-- Qini improved from **253.86 → 338.24**
-
-🔗 **Repo:** [https://github.com/Harshita30-bansal/UPLIFT-MODELING-OPTIMIZATION](REPO_LINK_UPLIFT)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🏆 Achievements
 
 - 💼 **LinkedIn Coaching Program:** Selected as **1 of 100 mentees across India** from **21,000+ applicants**
@@ -175,11 +107,6 @@ Causal ML pipeline for targeting optimization using **user-level incremental tre
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raipragya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Pragya's GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raipragya&theme=tokyonight&hide_border=true" alt="Pragya's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raipragya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
-  <img width="54%" src="https://github-profile-trophy.vercel.app/?username=raipragya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" alt="GitHub trophies" />
 </p>
 
 <p align="center">
