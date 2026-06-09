@@ -40,8 +40,7 @@ class PragyaRai:
 </tr>
 </table>
 
-| **Research orientation** | Co-authored a **TMLR-submitted survey** on GNNs for recommender systems and proposed a GNN Trilemma framework |
-| **Leadership and initiative** | Selected among **100 mentees from 21,000+ applicants** for LinkedIn Coaching Program; received WorldQuant Research Consultant offer |
+| **Research orientation** | Co-authored a **TMLR-submitted survey** on GNNs for recommender systems. |
 
 ---
 
