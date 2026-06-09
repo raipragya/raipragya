@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="mailto:raipragya006@gmail.com"><img src="https://img.shields.io/badge/Email-raipragya006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Pragya%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Case%20Studies-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-View%20PDF-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="www.linkedin.com/in/pragyarai006"><img src="https://img.shields.io/badge/LinkedIn-Pragya%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
+ 
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 I am **Pragya Rai**, an **Integrated M.Tech Computer Science student at IIIT Bangalore**.
 
-I enjoy exploring ideas that **scratch my curiosity** — problems that challenge me to question assumptions, connect research with engineering, and turn complex concepts into useful software.
+I enjoy exploring ideas that **scratch my curiosity** — problems that challenge me to question assumptions and connect research with engineering.
 
 </td>
 <td width="38%">
@@ -38,16 +38,10 @@ I enjoy exploring ideas that **scratch my curiosity** — problems that challeng
 class PragyaRai:
     institute = "IIIT Bangalore"
     degree = "Integrated M.Tech CSE"
-    focus = [
-        "AI/ML Engineering",
-        "Full-Stack Systems",
+    goal = [
         "Research to Product"
     ]
-    current_builds = [
-        "CodeVoir",
-        "AI DebateJudge",
-        "Causal ML Optimization"
-    ]
+    
 ```
 
 </td>
@@ -129,7 +123,7 @@ AI-powered platform for **mock interviews, source-grounded learning, opportunity
 - Multi-language test-case execution
 - PDF, URL, GitHub, and notes ingestion for source-grounded learning
 
-🔗 **Repo:** [Add repository link](REPO_LINK_CODEVOIR)
+🔗 **Repo:** [https://github.com/raipragya/CodeVoir](REPO_LINK_CODEVOIR)
 
 </td>
 <td width="50%" valign="top">
@@ -146,7 +140,7 @@ End-to-end NLP pipeline that converts debate transcripts into **claims, evidence
 - DeBERTa-v3-base multi-task model with BIO-NER, attributes, relations, claim types, and stance heads
 - FAISS + Phi-3 + RoBERTa-large-MNLI for evidence-grounded verification and rebuttal analysis
 
-🔗 **Repo:** [Add repository link](REPO_LINK_DEBATEJUDGE)
+🔗 **Repo:** [https://github.com/raipragya/AI_Debate_Judge](REPO_LINK_DEBATEJUDGE)
 
 </td>
 </tr>
@@ -165,7 +159,7 @@ Causal ML pipeline for targeting optimization using **user-level incremental tre
 - AUUC improved from **226.77 → 301.67**
 - Qini improved from **253.86 → 338.24**
 
-🔗 **Repo:** [Add repository link](REPO_LINK_UPLIFT)
+🔗 **Repo:** [https://github.com/Harshita30-bansal/UPLIFT-MODELING-OPTIMIZATION](REPO_LINK_UPLIFT)
 
 </td>
 </tr>
@@ -173,7 +167,7 @@ Causal ML pipeline for targeting optimization using **user-level incremental tre
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Achievements
 
 - 💼 **LinkedIn Coaching Program:** Selected as **1 of 100 mentees across India** from **21,000+ applicants**
 
@@ -201,7 +195,7 @@ Causal ML pipeline for targeting optimization using **user-level incremental tre
 
 <p align="center">
   <a href="mailto:raipragya006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/pragyarai006"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
