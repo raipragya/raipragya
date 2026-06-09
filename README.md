@@ -40,7 +40,6 @@ class PragyaRai:
 </tr>
 </table>
 
-| **Research orientation** | Co-authored a **TMLR-submitted survey** on GNNs for recommender systems. |
 
 ---
 
