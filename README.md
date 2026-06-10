@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,45:2563EB,100:7C3AED&text=Pragya%20Rai&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=AI%2FML%20Engineering%20%E2%80%A2%20Full-Stack%20Systems%20%E2%80%A2%20Research-Oriented%20Problem%20Solving&descAlignY=57&descSize=18&animation=fadeIn" alt="Pragya Rai GitHub Header" />
-</p>
+<h1 align="center">Pragya Rai</h1>
 
 
 
